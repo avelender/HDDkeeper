@@ -1,0 +1,4 @@
+dist/
+build/
+.venv38/
+__pycache__/
