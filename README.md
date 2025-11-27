@@ -1,5 +1,7 @@
 # HDDkeeper
 
+<img src = "https://raw.githubusercontent.com/avelender/HDDkeeper/refs/heads/main/sc.png"></img>
+
 Windows utility to monitor physical disks presence and send email alerts when disks are added or removed. No Windows service is used — integration is done via Task Scheduler. A minimal Tray UI helps configure SMTP, accept a baseline, run scans, and manage tasks.
 
 ## Features
